@@ -1,0 +1,2 @@
+# GatunMap
+The projec of the application (basic graphic interface - wx), which in a given area determines the list of species and their distribution in the form of points marked on the map. It assumes the determination of the taxonomic level of the search and the delineation of the area (minimum 3 geographical points).  The project is based on data from the GBIF database - the Global Biodiversity Information Facility
